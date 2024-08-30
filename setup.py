@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='embedding_processor',
+    name='rdf-embedder',
     version='0.1',
     description='A tool for processing Turtle files and adding embeddings for long text fields.',
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='David Steinber',
+    author_email='david@resium.com',
     packages=find_packages(),
     install_requires=[
         'rdflib>=6.0.0',
