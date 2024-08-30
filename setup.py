@@ -4,7 +4,7 @@ setup(
     name='rdf-embedder',
     version='0.1',
     description='A tool for processing Turtle files and adding embeddings for long text fields.',
-    author='David Steinber',
+    author='David Steinberg',
     author_email='david@resium.com',
     packages=find_packages(),
     install_requires=[
